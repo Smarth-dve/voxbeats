@@ -1,12 +1,7 @@
-# omnifood-project
+# Voxbeats Project
 
 
-For a fictitious healthy food delivery company
-Project for Udemy course by Jonas Schmedtmann
+For a melodious music time 
+Project for Dotslash
 
 Responsive web site built with HTML5, CSS3 and some jQuery
-
-
-[Link to Omnifood project website](https://foxystoat.github.io/omnifood-project/)
-
-![screenshot of about section img](screenshot.png)
