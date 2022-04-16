@@ -1,7 +1,2 @@
 # Voxbeats Project
-
-
-For a melodious music time 
-Project for Dotslash
-
-Responsive web site built with HTML5, CSS3 and some jQuery
+It is a light weight and ad free music player website having basic as well as some additional feature like "Drum Simulation" in which user can create their own beats along with the songs playing in the background.
